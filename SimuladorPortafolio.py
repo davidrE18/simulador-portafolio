@@ -60,7 +60,7 @@ if st.sidebar.button("🚪 Cerrar sesión"):
 # =========================
 # DATOS BASE
 # =========================
-archivo = "/Users/descobar/OneDrive - CasaLuker S.A/Documentos/2025/Proyectos/Comercial/Portafolio Foco/PortafolioFoco.xlsx"
+archivo = "PortafolioFoco.xlsx"
 df = pd.read_excel(archivo)
 
 # Normalizar nombres de columnas
